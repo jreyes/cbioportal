@@ -19,6 +19,8 @@ MRNA_EXPRESSION	Z-SCORE	mrna_median_Zscores
 MRNA_EXPRESSION	CONTINUOUS	rna_seq_mrna
 MRNA_EXPRESSION	CONTINUOUS	rna_seq_v2_mrna
 MRNA_EXPRESSION	Z-SCORE	rna_seq_v2_mrna_median_Zscores
+MRNA_EXPRESSION	CONTINUOUS	rna_seq_v2_mrna_median_normals
+MRNA_EXPRESSION	Z-SCORE	rna_seq_v2_mrna_median_normals_Zscores
 MRNA_EXPRESSION	CONTINUOUS	mirna
 MRNA_EXPRESSION	Z-SCORE	mirna_median_Zscores
 MRNA_EXPRESSION	Z-SCORE	mrna_merged_median_Zscores

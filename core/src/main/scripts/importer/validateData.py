@@ -4640,6 +4640,7 @@ def processCaseListDirectory(caseListDir, cancerStudyId, logger,
                                 'all_cases_with_mutation_and_cna_and_mrna_data',
                                 'all_cases_with_gsva_data',
                                 'all_cases_with_sv_data',
+                                'all_normal_cases_with_mrna_rnaseq_data',
                                 'other']
 
             # If the case list category is invalid, the importer will crash.
